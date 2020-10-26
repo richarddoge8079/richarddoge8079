@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 To be new base for portfolio, which will be migrated from old site
+
+
+### Interim Résumé/CV
+- Graduated from KDU Game Dev Degree Programme
+- Worked as Technical Intern at Visual Math Interactive Sdn Bhd
+- Have experience in coding in C++, C#, Java, JS
+- Currently working as QA Team Lead in SPEEDHOME
